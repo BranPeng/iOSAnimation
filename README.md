@@ -8,5 +8,5 @@
 
 [仿微信，微博的大图查看和视频播放 拖拽消失的手势动画](https://github.com/anonymity-du/DragToDismiss-PanGesture)  
 
-
+[一句代码添加或关闭模糊效果](https://github.com/WKCLoveYang/WKCBlurView)
 
