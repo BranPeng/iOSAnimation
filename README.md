@@ -12,5 +12,9 @@
 
 [封装横向滚动纵向滚动](https://github.com/mengzhihun6/JGRollingVertical)
 
+[简单核心动画汇总](https://github.com/mengzhihun6/JGCALayer)
+
+[镂空文字、类歌词进度显示文字，滚动字幕](https://github.com/mengzhihun6/JGMarkLable)
+
 ### Facebook:
 [POP](https://github.com/facebook/pop)
